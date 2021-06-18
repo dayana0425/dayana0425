@@ -2,7 +2,7 @@
 
 <img align="left" alt="Rainbow" width="80px" src="https://www.wlbschools.com/cms/lib/NJ01001458/Centricity/Domain/155/raibow.gif" />
 
-## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer!
+## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer! 👩🏽‍💻
 
 - 🌱 I’m currently learning Electron.
 - 🥅 2021 Goals: I will like to develop my own personal website. I also will like to strengthen my front-end & alogrithm skills. 
