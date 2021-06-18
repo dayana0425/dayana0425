@@ -1,7 +1,6 @@
-### Hola, I'm Daiana 👋 
-<br/>
-<img align="left" alt="Rainbow" width="50px" src="https://www.wlbschools.com/cms/lib/NJ01001458/Centricity/Domain/155/raibow.gif" />
-<br/>
+## Hola, I'm Daiana 👋 
+
+<img align="left" alt="Rainbow" width="80px" src="https://www.wlbschools.com/cms/lib/NJ01001458/Centricity/Domain/155/raibow.gif" />
 
 ## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer!
 
