@@ -1,4 +1,4 @@
-### Hi there, I'm Daiana 👋 
+### Hola, I'm Daiana 👋 
 
 ## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer!
 
