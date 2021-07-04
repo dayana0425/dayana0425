@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge.
 - 🥅 2021 Goals: I will like to develop my own personal website using React & Typescript.
-- ⚡ Fun fact: I love to go on runs, lift weights, paint/draw, and read! I also know a little bit of Japanese. 
+- ⚡ Fun fact: I love to run, lift weights, paint/draw, play mario kart and read! I speak fluent Spanish & English. I also spend some time casually learning Japanese. 
 
 ### Connect with me:
 [<img align="left" alt="Daiana Bilbao | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
