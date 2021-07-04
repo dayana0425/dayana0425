@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer! 👩🏽‍💻
 
 - 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge.
-- 🥅 2021 Goals: I will like to develop my own personal website. I also will like to strengthen my front-end & alogrithm skills. 
+- 🥅 2021 Goals: I will like to develop my own personal website using React & Typescript.
 - ⚡ Fun fact: I love to go on runs, lift weights, paint/draw, and read! I also know a little bit of Japanese. 
 
 ### Connect with me:
