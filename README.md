@@ -1,8 +1,8 @@
 ## Hola, I'm Daiana 👋 
 
-## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer! 👩🏽‍💻
+## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer! 👩🏽‍💻 
 
-- 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge.
+- 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge. I'm also participating in RTC x NEAR Blockchain Series where I'll be attending sessions on the latest in the Blockchain space as well as partaking in a Blockchain bootcamp where I'll be developing an entire blockchain project utilizing smart contracts.
 - 🥅 2021 Goals: I will like to develop my own personal website using React & Typescript.
 - ⚡ Fun fact: I love to run, lift weights, paint/draw, play mario kart and read! I speak fluent Spanish & English. I also spend some time casually learning Japanese. 
 
