@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student, First Generation College Student, Latina Woman in Tech and Developer! 👩🏽‍💻 
 
-- 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge. I'm also participating in RTC x NEAR Blockchain Series for the month of July where I attend sessions about the latest in the Blockchain space. I'm partaking in their Blockchain bootcamp where I am developing a blockchain project utilizing Solidity. 
+- 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge. I'm also participating in RTC x NEAR Blockchain Series for the month of July where I attend sessions about the latest in the Blockchain space. I'm partaking in their Blockchain bootcamp as well where I am developing a blockchain project utilizing Solidity. 
 - 🥅 2021 Goals: I will like to develop my own personal website using React & Typescript.
 - ⚡ Fun fact: I love to run, lift weights, paint/draw, play mario kart and read! I speak fluent Spanish & English. I also spend some time casually learning Japanese. 
 
