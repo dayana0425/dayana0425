@@ -1,8 +1,6 @@
 ## Hola, I'm Daiana 👋 I'm a Software Engineer! 👩🏽‍💻 
 
-- 🌱 I’m currently participating in CodePath's Advanced Software Engineering Technical Interview Course; sharpening my problem-solving skills and algorithmic knowledge. I'm also participating in RTC x NEAR Blockchain Series for the month of July where I attend sessions about the latest in the Blockchain space. I'm partaking in their Blockchain bootcamp as well where I am developing a blockchain project utilizing NEAR protocol & assembly script. 
-- 🥅 2021 Goals: I will like to develop my own personal website using React & Typescript.
-- ⚡ Fun fact: I love to run, lift weights, paint/draw, play mario kart and read! I speak fluent Spanish & English. I also spend some time casually learning Japanese. 
+# Intrested in Blockchain applications & Fullstack development.
 
 ### Connect with me:
 [<img align="left" alt="Daiana Bilbao | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
