@@ -1,6 +1,6 @@
 ## Hola, I'm Daiana 👋 I'm a Software Engineer! 👩🏽‍💻 
 
-### 👩🏽‍💻: For work, I am intrested in blockchain applications & fullstack development.
+### 👩🏽‍💻: Intrested in Blockchain applications & Fullstack development.
 
 ### Connect with me:
 [<img align="left" alt="Daiana Bilbao | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
