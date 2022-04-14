@@ -1,7 +1,7 @@
 ## Hola, I'm Daiana 👋 I'm a Software Engineer! 👩🏽‍💻 
 
 ### Intrested in Blockchain/Web3 applications & Fullstack development.
-### Build on Solana, Ethereum, & NEAR
+### Building on Solana, Ethereum, & NEAR
 
 ### Connect with me:
 [<img align="left" alt="Daiana Bilbao | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
