@@ -2,7 +2,7 @@
 
 --- 
 #### ✨ Interests 
-- Blockchain technology & decentralized applications
+- blockchain technology & decentralized applications
 
 ---
 
