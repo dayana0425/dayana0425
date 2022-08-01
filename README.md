@@ -22,6 +22,7 @@
 #### 🧠 Want To Better Learn:
 - graphQL
 - MERN stack
+- Technical Writing & Content Creation for Blog Posts
 ---
 
 #### 🧰 Toolbox
