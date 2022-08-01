@@ -3,7 +3,8 @@
 --- 
 #### ✨ Interests 
 - blockchain technology & decentralized applications
-
+- distributed systems
+- cryptography
 ---
 
 #### 💗 Passions
