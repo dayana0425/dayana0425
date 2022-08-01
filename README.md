@@ -13,16 +13,22 @@
 - computer science education for all
 - financial inclusion with defi
 - generational wealth building in immigrant communities
-
-#### ⭐ Want to make projects with:
+---
+#### ⭐ Want To Make Projects With:
 - Lens Protocol
 - The Graph
 - MERN Stack
 - Chainlink
-
-#### 🧠 Want to better learn:
+---
+#### 🧠 Want To Better Learn:
 - GraphQL
 ---
+#### 🦋 Currently Participating In:
+- Chainlink x Encode Hackathon
+- 30 Days of Web3
+- Solidity Bootcamp by Encode Club
+---
+
 #### 🧰 Toolbox
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
