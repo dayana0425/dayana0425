@@ -14,6 +14,14 @@
 - financial inclusion with defi
 - generational wealth building in immigrant communities
 
+#### ⭐ Want to make projects with:
+- Lens Protocol
+- The Graph
+- MERN Stack
+- Chainlink
+
+#### 🧠 Want to better learn:
+- GraphQL
 ---
 #### 🧰 Toolbox
 
