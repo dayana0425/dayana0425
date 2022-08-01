@@ -15,18 +15,13 @@
 - generational wealth building in immigrant communities
 ---
 #### ⭐ Want To Make Projects With:
-- Lens Protocol
-- The Graph
-- MERN Stack
-- Chainlink
+- lens protocol
+- the graph
+- MERN stack
+- chainlink
 ---
 #### 🧠 Want To Better Learn:
-- GraphQL
----
-#### 🦋 Currently Participating In:
-- Chainlink x Encode Hackathon
-- 30 Days of Web3
-- Solidity Bootcamp by Encode Club
+- graphQL
 ---
 
 #### 🧰 Toolbox
