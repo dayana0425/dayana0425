@@ -17,11 +17,11 @@
 #### ⭐ Want To Make Projects With:
 - lens protocol
 - the graph
-- MERN stack
 - chainlink
 ---
 #### 🧠 Want To Better Learn:
 - graphQL
+- MERN stack
 ---
 
 #### 🧰 Toolbox
