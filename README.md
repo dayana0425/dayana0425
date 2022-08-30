@@ -4,21 +4,20 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * 🌍 Living in Denver
 * ✨ Interests 
   - blockchain technology & decentralized applications/research
+  - web3, NFTs, and crypto
   - distributed systems
-  - cryptography
+  - cryptography 
 * 💗 Passions
-  - women in tech/web 3.0 
-  - teaching others how to code
-  - computer science education for all
-  - financial inclusion with defi
-  - generational wealth building in immigrant communities
+  - women in tech / web 3.0 
+  - teaching others how to code & computer science education for all
+  - financial inclusion & generational wealth building in immigrant / minority communities
+  - language diversity in educational resources
 * ⭐ Currently Making Projects With:
   - lens protocol
   - the graph
   - chainlink
 * 🧠 Want To Better Learn:
   - graphQL
-  - MERN stack
   - Technical Writing & Content Creation for Blog Posts
 
 <a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img
