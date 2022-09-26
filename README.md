@@ -11,7 +11,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   - women in tech / web 3.0 
   - teaching others how to code & computer science education for all
   - financial inclusion & generational wealth building in immigrant / minority communities
-  - language diversity in educational resources
+  - language diversity in technical educational resources
 * ⭐ Currently Making Projects With:
   - lens protocol
   - the graph
