@@ -5,7 +5,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * ✨ Interests 
   - blockchain technology & decentralized applications/research
   - web3, NFTs, and crypto
-  - React
+  - fullstack development
+  - writing blogs (check out my hashnode!)
 * 💗 Passions
   - women in tech / web 3.0 
   - teaching others how to code & computer science education for all
@@ -16,6 +17,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * 🧠 Want To Learn:
   - SVG NFTs
   - Superfluid
+ 
 
 <a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hello_dayana?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
