@@ -15,6 +15,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   - language diversity in technical educational resources
 * ⭐ Currently Coding:
   - the road to web3 challenges by alchemy
+  - chainlink fall hackathon 
+  - ethsf
 * 🧠 Want To Learn:
   - SVG NFTs
   - superfluid
