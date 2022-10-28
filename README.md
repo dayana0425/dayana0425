@@ -13,10 +13,10 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   - financial inclusion & generational wealth building in immigrant / minority communities
   - language diversity in technical educational resources
 * ⭐ Currently Coding:
-  - The Road To Web3 Challenges
+  - the road to web3 challenges by alchemy
 * 🧠 Want To Learn:
   - SVG NFTs
-  - Superfluid
+  - superfluid
  
 
 <a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img
