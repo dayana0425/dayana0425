@@ -5,19 +5,17 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * ✨ Interests 
   - blockchain technology & decentralized applications/research
   - web3, NFTs, and crypto
-  - distributed systems
+  - React
 * 💗 Passions
   - women in tech / web 3.0 
   - teaching others how to code & computer science education for all
   - financial inclusion & generational wealth building in immigrant / minority communities
   - language diversity in technical educational resources
-* ⭐ Currently Making Projects With:
-  - lens protocol
-  - the graph
-  - chainlink
-* 🧠 Want To Better Learn:
-  - graphQL
-  - Technical Writing & Content Creation for Blog Posts
+* ⭐ Currently Coding:
+  - The Road To Web3 Challenges
+* 🧠 Want To Learn:
+  - SVG NFTs
+  - Superfluid
 
 <a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hello_dayana?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
@@ -64,6 +62,7 @@ src="https://img.shields.io/twitter/follow/hello_dayana?logo=twitter&style=for-t
 <a href="https://www.linkedin.com/in/DaianaBilbao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://t.me/hello_dayana" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="108" height="32" /></a>
+<a href="https://hello-dayana.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
