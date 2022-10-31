@@ -6,7 +6,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   - blockchain technology & decentralized applications/research
   - web3, NFTs, and crypto
   - fullstack development
-  - writing blogs (on hashnode)
+  - writing blogs
   - hackathons
 * 💗 Passions
   - women in tech / web 3.0 
