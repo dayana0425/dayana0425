@@ -1,6 +1,5 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Day!
 ============================================================================================================================
-
 * 🌍 Living in Denver
 * ✨ Interests 
   - blockchain technology & decentralized applications/research
@@ -13,14 +12,6 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   - teaching others how to code & computer science education for all
   - financial inclusion & generational wealth building in immigrant / minority communities
   - language diversity in technical educational resources
-* ⭐ Currently Coding:
-  - the road to web3 challenges by alchemy
-  - chainlink fall hackathon 
-  - ethsf
-* 🧠 Want To Learn:
-  - SVG NFTs
-  - superfluid
- 
 
 <a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hello_dayana?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
