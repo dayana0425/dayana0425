@@ -56,9 +56,7 @@ Hi, my name is Day!
 <a href="https://hello-dayana.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/dayana0425"><img src="https://github-readme-stats.vercel.app/api?username=dayana0425&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="dayana0425's GitHub stats" /></a>
 
