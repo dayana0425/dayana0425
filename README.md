@@ -11,9 +11,6 @@ Hi, my name is Day!
 
 </br>
 
-<a href="https://www.twitter.com/hello_dayana" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hello_dayana?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
-/></a>
 
 ### Skills
 
