@@ -1,19 +1,15 @@
 Hi, my name is Day!
 ============================================================================================================================
-* 🇺🇸🇦🇷 Currently living in Denver, Colorado. Originally from Buenos Aires, Argentina
-* 💻 Fullstack developer with a focus on:
-    * 🛠 User-centered design and accessibility
-    * 💡 Passionate about using technology to create positive impact
-    * 🔗 Blockchain and decentralized technology
+* 💻 fullstack developer interested in:
+    * 🛠 user-centered design & accessibility
+    * ⚡️ product engineering
+    * 🔗 blockchain & decentralized technology
 * 🏆 5x web3 hackathon winner
-* 🚀 Dedicated to uplifting and empowering women & underrepresented individuals in tech and web3
-* 🏃‍♂️ Running, 📖 Reading, 🎨 Crafting, 🎸 Concerts, and 📝 Content creation
+* 💫 dedicated to uplifting and empowering women & underrepresented individuals in tech/web3
+* 🏃‍♂️ Running, 📖 Reading, 🎨 Crafting, 🎸 Concerts, and 📝 Content Creation
 
 </br>
-
-
 ### Skills
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
