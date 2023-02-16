@@ -6,7 +6,7 @@ Hi, my name is Day!
     * 🔗 blockchain & decentralized technology
 * 🏆 5x web3 hackathon winner
 * 💫 dedicated to uplifting and empowering women & underrepresented individuals in tech/web3
-* 🏃‍♂️ Running, 📖 Reading, 🎨 Crafting, 🎸 Concerts, and 📝 Content Creation
+* 🏃‍♂️ running, 📖 reading, 🎨 crafting, 🎸 concerts, and 📝 content creation
 * 🇦🇷🇺🇸
 
 </br>
