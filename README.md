@@ -1,12 +1,12 @@
 Hi, my name is Day!
 ============================================================================================================================
-* 💻 fullstack developer interested in:
+* 💻 fullstack developer skilled in:
     * 🛠 user-centered design & accessibility
-    * ⚡️ product engineering
-    * 🔗 blockchain & decentralized technology
+    * ⚡️ front-end engineering
+    * 🔗 blockchain & decentralized technology (especially, defi)
 * 🏆 5x web3 hackathon winner
 * 💫 dedicated to uplifting and empowering women & underrepresented individuals in tech/web3
-* 🏃‍♂️ running, 📖 reading, 🎨 crafting, 🎸 concerts, and 📝 content creation
+* 🏃‍♂️ running, 📖 reading, 🎨 crafting, 🎸 concerts
 * 🇦🇷🇺🇸
 
 </br>
