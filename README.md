@@ -1,15 +1,16 @@
 Hi, my name is Day!
 ============================================================================================================================
+
 * 💻 fullstack developer skilled in:
     * 🛠 user-centered design & accessibility
     * ⚡️ front-end engineering
-    * 🔗 blockchain & decentralized technology (especially, defi)
+    * 🔗 blockchain & decentralized technology
 * 🏆 5x web3 hackathon winner
 * 💫 dedicated to uplifting and empowering women & underrepresented individuals in tech/web3
-* 🏃‍♂️ running, 📖 reading, 🎨 crafting, 🎸 concerts
 * 🇦🇷🇺🇸
 
 </br>
+
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
