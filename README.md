@@ -58,10 +58,14 @@ Hi, my name is Day!
 
 <a href="http://www.github.com/dayana0425"><img src="https://github-readme-stats.vercel.app/api?username=dayana0425&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="dayana0425's GitHub stats" /></a>
 
+<a href="https://gitroll.io/profile/ujGNIQJsNjedE1vc8aI9pnAJnyc43" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ujGNIQJsNjedE1vc8aI9pnAJnyc43" alt="GitRoll Profile Badge"/></a>
+
 <a href="http://www.github.com/dayana0425"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dayana0425&stroke=a855f7&background=000000&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/holadayana"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 
 
